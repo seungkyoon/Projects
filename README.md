@@ -6,6 +6,7 @@ My solutions can be found in the Solutions folder.
 ## Topics
 
 ### Graphics & Image Analysis
+[WIP] **Image Tiling Project**
 
 ### Machine Learning
 
