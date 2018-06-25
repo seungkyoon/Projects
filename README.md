@@ -10,6 +10,8 @@ Additional personal information can be found in the Other folder.
 ### Graphics & Image Analysis
 [WIP] **Image Tiling Project**
 
+**Registration Errors Demonstration**: A brief demonstration of some key registration concepts, including fiducial localization error, fudicial registration error, and target registration error
+
 ### Machine Learning
 
 ### Artificial Intelligence
