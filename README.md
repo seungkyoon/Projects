@@ -12,9 +12,7 @@ Additional personal information can be found in the Other folder.
 
 **Registration Errors Demonstration**: A brief demonstration of some key registration concepts, including fiducial localization error, fudicial registration error, and target registration error
 
-### Machine Learning
-
-### Artificial Intelligence
+### Machine Learning &  Artificial Intelligence
 
 ### Text
 
