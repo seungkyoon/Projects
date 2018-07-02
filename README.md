@@ -23,3 +23,8 @@ Additional personal information can be found in the Other folder.
 ### Files
 
 ### Utilities
+
+## Contributions to Other Projects
+
+* SimpleITK
+* SimpleITK-Notebooks
