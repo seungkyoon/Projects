@@ -26,5 +26,5 @@ Additional personal information can be found in the Other folder.
 
 ## Contributions to Other Projects
 
-* SimpleITK
-* SimpleITK-Notebooks
+* [SimpleITK](../../../SimpleITK)
+* [SimpleITK-Notebooks](../../../SimpleITK-Notebooks)
