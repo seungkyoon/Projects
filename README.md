@@ -12,13 +12,26 @@ Additional personal information can be found in the Other folder.
 
 **Registration Errors Demonstration**: A brief demonstration of some key registration concepts, including fiducial localization error, fudicial registration error, and target registration error
 
-### Machine Learning &  Artificial Intelligence
+### Machine Learning & Artificial Intelligence
 
 ### Text
+**Transposition Cipher**
+
+**Deck of Cards**
+
+**Shrink Text Solitaire**
+
+**3-Dimensional Ants**
+
+**Pig Esperanto**
 
 ### Numbers
+**Efficient, Large, Non-Negative Integer Calculations**
 
 ### Graph
+**Efficient Array Combination**
+
+**Reordering a Tree**
 
 ### Files
 
