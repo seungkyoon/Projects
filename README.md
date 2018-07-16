@@ -1,5 +1,6 @@
 # Projects
-This repository is a growing collection of various programming problems and solutions I have worked on and found to be interesting.
+This repository is a growing collection of various programming problems and solutions I
+have worked on and found to be interesting.
 
 My solutions can be found in the Solutions folder.
 
@@ -8,21 +9,25 @@ Additional personal information can be found in the Other folder.
 ## Topics
 
 ### Graphics & Image Analysis
- - [WIP] **Image Tiling Project**
+ - [WIP] ***Image Tiling Project***: Reconstruct an image using tiles determined by MSE
+   and average image color
 
- - **Registration Errors Demonstration**: A brief demonstration of some key registration concepts, including fiducial localization error, fudicial registration error, and target registration error
+ - **Registration Errors Demonstration**: Demonstrate some key registration concepts,
+   including fiducial localization error, fudicial registration error, and target registration error
 
 ### Machine Learning & Artificial Intelligence
 
 ### Graph
-- **Reordering a Tree**: Reorder an N-ary tree by decreasing order of the size of subtrees recursively
+ - **Reordering a Tree**: Reorder an N-ary tree by decreasing order of the size of subtrees recursively
 
- - **Efficient Array Combination**: Implement abstract data type representing an array and support efficient `ArrayCombine()` and the typical `create()`, `destroy()`, `get()`, `set()`, and `size()`
+ - **Efficient Array Combination**: Implement abstract data type representing an array and
+   support efficient `ArrayCombine()` and the typical `create()`, `destroy()`, `get()`, `set()`, and `size()`
 
 
 ### Text
 
- - **Deck of Cards**: Implement a data type representing a deck of cards with time-efficient `create()`, `destroy()`, `get()`, `put()`, `print()`, `split()`, and `shuffle()`
+ - **Deck of Cards**: Implement a data type representing a deck of cards with time-efficient
+   `create()`, `destroy()`, `get()`, `put()`, `print()`, `split()`, and `shuffle()`
 
  - **Shrink Text Solitaire**: Simplify a string in a solitaire-manner with the following rules:
      1. Pick two cards that are either adjacent or separated by two other cards.
@@ -38,12 +43,14 @@ Additional personal information can be found in the Other folder.
      - Read character at position and print: ?
      - Terminate: EOF
 
- - **Transposition Cipher**: Simple transposition cipher (inputs `n`, `a`, and `b`) that scrambles text in blocks of character length n using the rule `j = (ai + b) mod n`
+ - **Transposition Cipher**: Simple transposition cipher (inputs `n`, `a`, and `b`) that
+   scrambles text in blocks of character length n using the rule `j = (ai + b) mod n`
 
  - **Pig Esperanto**: Encode a string using Pig Esperanto
 
 ### Numbers
- - **Efficient, Large, Non-Negative Integer Calculations**: Implement a data type supporting addition and multiplication of large non-negative integers
+ - **Efficient, Large, Non-Negative Integer Calculations**: Implement a data type supporting
+   addition and multiplication of large non-negative integers
 
 ### Files
 
