@@ -56,7 +56,7 @@ Additional personal information can be found in the Other folder.
 
 ### Utilities
 
-## Contributions to Other Projects
+## Contributions to Open Source Projects
 
 * [SimpleITK](../../../SimpleITK)
 * [SimpleITK-Notebooks](../../../SimpleITK-Notebooks)
